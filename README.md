@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @am-nimrah
-- 👀 I’m interested in C,C++,C#,Java and Python programming. Interested in Requirement and quality engineering.
-- 🌱 I’m currently learning data science, visualization and presentation.
-- 💞️ I’m looking to collaborate on coding skills.
+- 👋 Hi, I’m @am-nimrah an ML Engineer since 2k22.
+- 👀 Other than ML I’m efficient in various programming languags curious yo knoe? okay 😂 R,C,C#,Java,dart and Python .
+- 🎓 Being a Software Engineer 🫣I am also Interested in Requirement Engineering Quality engineering and Software Project Management.
+- 🌱 I’m currently into Data Engineering to evolve. 
 - 📫 How to reach me nimrahwaqar1@gmail.com
 
 <!---
