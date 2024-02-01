@@ -26,3 +26,6 @@ I'm a passionate Machine Learning Engineer with a strong background in various p
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimrahwaqar/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/am-nimrah)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nimrah_waqar)
+[![Google Developer Profile](https://img.shields.io/badge/-Google%20Developer-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/NimraWaqar)
+[![Cloud Skills Boost Profile](https://img.shields.io/badge/-Cloud%20Skills%20Boost-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/89ba4cb7-8d82-44eb-b10b-7330cc7688f4)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/people/Nimra-Waqar/pfbid02UtvDKv6Fr9dgb34RgZoF8BgdAHJEedqNkqvSMYdHd1Fkn7xayvoCTs5wbjxiUm4El/)
