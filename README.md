@@ -2,7 +2,7 @@
 
 I'm a passionate Machine Learning Engineer with a strong background in various programming languages and a keen interest in software engineering practices. Here's a bit more about me:
 
-- 🔭 I’m currently diving deep into Data Engineering to broaden my skill set and tackle new challenges.
+- 🔭 I’m currently diving deep into Data Science to broaden my skill set and tackle new challenges.
 - 🌱 In addition to my expertise in machine learning, I'm always eager to learn and explore new technologies and methodologies.
 - 👯 I’m looking to collaborate on projects that leverage machine learning to solve real-world problems or enhance existing systems.
 - 🤔 I’m open to discussing and contributing to topics related to Requirement Engineering, Quality Engineering, and Software Project Management.
