@@ -1,4 +1,4 @@
-### Hi there, I'm Nimrah Waqar! 👋
+### Hi there, I'm Nimra Waqar! 👋
 
 I'm a passionate Machine Learning Engineer with a strong background in various programming languages and a keen interest in software engineering practices. Here's a bit more about me:
 
