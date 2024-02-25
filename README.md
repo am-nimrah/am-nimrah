@@ -7,7 +7,7 @@ I'm a passionate Machine Learning Engineer with a strong background in various p
 - 👯 I’m looking to collaborate on projects that leverage machine learning to solve real-world problems or enhance existing systems.
 - 🤔 I’m open to discussing and contributing to topics related to Requirement Engineering, Quality Engineering, and Software Project Management.
 - 💬 Ask me about anything related to machine learning, software engineering, or programming languages like Python, R, C, C#, Java, and Dart.
-- 📫 Feel free to reach out to me at nimrahwaqar1@gmail.com for any inquiries or collaborations!
+- 📫 Feel free to reach out to me at LinkedIn for any inquiries or collaborations!
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
