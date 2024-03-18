@@ -10,7 +10,7 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 - 💬 Let's chat about Requirement Engineering, Quality Engineering, and Software Project Management!
 ### Let's Connect!
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/nimrahwaqar/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
   </a>
