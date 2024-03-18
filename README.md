@@ -32,9 +32,11 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="25">
   <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark" height="25">
 </p>
+
 ### Profile Stats 💻👀
 
-https://github-readme-stats.vercel.app/api?username=am-nimrah&show_icons=true&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=am-nimrah&show_icons=true&theme=tokyonight)
+
 
 ### Let's Connect!
 
