@@ -65,11 +65,12 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
       <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
         <img src="https://images.ctfassets.net/nrgyaltdicpt/7JpfH23FzfZFgN8HwMdqvj/e41e6454e1acf35d42a9eef32be748a4/ologo_square_bw.png" alt="Overleaf" width="40" height="45"/>
       </a>
+      <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="45"/>
+      </a>
     </td>
   </tr>
 </table>
-
-
 
 ### My Profile Stats 💻👀
 
