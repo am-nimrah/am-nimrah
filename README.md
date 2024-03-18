@@ -68,6 +68,12 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
       <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
         <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="45"/>
       </a>
+      <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="45"/>
+      </a>
+      <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" width="40" height="45"/>
+      </a>
     </td>
   </tr>
 </table>
