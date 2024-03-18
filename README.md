@@ -9,16 +9,6 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 - 💼 Experienced in Data Science and Data Analytics, exploring insights from data to drive decision-making.
 - 💬 Let's chat about Requirement Engineering, Quality Engineering, and Software Project Management!
 
-<p align="center">
-  <a href="https://twitter.com/nimrah_waqar" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/nimrah_waqar?style=social" alt="Twitter Follow" height="25">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nimrahwaqar/" target="_blank">
-    <img src="https://img.shields.io/badge/-Nimra%20Waqar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nimrahwaqar/" alt="LinkedIn" height="25">
-  </a>
-</p>
-
 ### Skills and Tools
 
 <p align="left"> 
@@ -59,6 +49,9 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/nimrah_waqar" target="_blank">
     <img src="https://img.shields.io/badge/-nimrah__waqar-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="25">
+  </a>
+  <a href="https://twitter.com/nimrah_waqar" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/nimrah_waqar?style=social" alt="Twitter Follow" height="25">
   </a>
 </p>
 </center>
