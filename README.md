@@ -13,9 +13,9 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 
 <table align="center">
   <tr>
-    <th>Backend Languages</th>
+    <th>Backend & Frontend</th>
     <th>Databases</th>
-    <th>Other Tools</th>
+    <th>Tech Stack</th>
   </tr>
   <tr>
     <td>
@@ -30,6 +30,12 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
       </a>
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="45"/>
+      </a>
+      <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="45"/>
+      </a>
+      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="45"/>
       </a>
     </td>
     <td>
@@ -56,15 +62,13 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
       <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="45"/>
       </a>
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="45"/>
-      </a>
       <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
         <img src="https://images.ctfassets.net/nrgyaltdicpt/7JpfH23FzfZFgN8HwMdqvj/e41e6454e1acf35d42a9eef32be748a4/ologo_square_bw.png" alt="Overleaf" width="40" height="45"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ### My Profile Stats 💻👀
