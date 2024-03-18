@@ -8,8 +8,19 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 - 🌱 Actively involved in research to contribute to the advancement of machine learning and related fields.
 - 💼 Experienced in Data Science and Data Analytics, exploring insights from data to drive decision-making.
 - 💬 Let's chat about Requirement Engineering, Quality Engineering, and Software Project Management!
+### Let's Connect!
 
-### Skills and Tools
+<p align="center">
+  <a href="https://www.linkedin.com/in/nimrahwaqar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/nimrah_waqar" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40">
+  </a>
+</p>
+
+### Technolgies
 
 <table align="center">
   <tr>
@@ -84,16 +95,4 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
   <img src="https://github-readme-stats.vercel.app/api?username=am-nimrah&show_icons=true&theme=tokyonight" alt="GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-nimrah&langs_count=8&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,am-nimrah.github.io&&hide=Cython,C,PowerShell,CMake,Shell" alt="Top languages used">
 <img alt="am-nimrah's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=am-nimrah&theme=tokyonight">
-</p>
-
-### Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nimrahwaqar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/nimrah_waqar" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40">
-  </a>
 </p>
