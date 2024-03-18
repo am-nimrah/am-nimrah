@@ -1,10 +1,12 @@
+<center>
+
 ### Hi there, I'm Nimra Waqar! 👋
 
 A passionate Machine Learning Engineer with a thirst for knowledge and a drive to solve real-world problems.
 
-- 🔭 I dive deep into Data Science to expand my skillset and tackle new challenges.
-- 🌱 Continuously learning and exploring new technologies and methodologies in Machine Learning.
-- 👯 I'm always on the lookout for opportunities to collaborate on projects that leverage ML to make a positive impact.
+- 🔭 I dive deep into Machine Learning to expand my skillset and tackle new challenges.
+- 🌱 Actively involved in research to contribute to the advancement of machine learning and related fields.
+- 💼 Experienced in Data Science and Data Analytics, exploring insights from data to drive decision-making.
 - 💬 Let's chat about Requirement Engineering, Quality Engineering, and Software Project Management!
 
 <p align="center">
@@ -31,6 +33,8 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="25">
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="25">
   <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark" height="25">
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="25">
+  <img src="https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Overleaf" height="25">
 </p>
 
 ### Profile Stats 💻👀
@@ -53,3 +57,4 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
     <img src="https://img.shields.io/badge/-nimrah__waqar-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="25">
   </a>
 </p>
+</center>
