@@ -40,10 +40,10 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nimrahwaqar/" target="_blank">
-    <img src="https://img.shields.io/badge/-Nimra%20Waqar-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="25">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/nimrah_waqar" target="_blank">
-    <img src="https://img.shields.io/badge/-nimrah__waqar-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="25">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40">
   </a>
 </p>
