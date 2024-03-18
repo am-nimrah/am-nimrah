@@ -1,6 +1,6 @@
 <center>
 
-### Hi there, I'm Nimra Waqar! 👋
+### I'm Nimra Waqar! 👋
 
 A passionate Machine Learning Engineer with a thirst for knowledge and a drive to solve real-world problems.
 
