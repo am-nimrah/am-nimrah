@@ -39,8 +39,11 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 
 ### Profile Stats 💻👀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=am-nimrah&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=am-nimrah&show_icons=true&theme=tokyonight" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-nimrah&langs_count=8&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,am-nimrah.github.io&&hide=Cython,C,PowerShell,CMake,Shell" alt="Top languages used">
+<img alt="am-nimrah's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=am-nimrah&theme=tokyonight">
+</p>
 
 ### Let's Connect!
 
