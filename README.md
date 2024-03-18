@@ -37,7 +37,7 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
   <img src="https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Overleaf" height="25">
 </p>
 
-### Profile Stats 💻👀
+### My Profile Stats 💻👀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=am-nimrah&show_icons=true&theme=tokyonight" alt="GitHub stats">
