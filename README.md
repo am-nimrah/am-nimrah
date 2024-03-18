@@ -20,6 +20,22 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 </p>
 
 ### Skills and Tools
+<br>
+
+Python: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
+R: https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white
+C: https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white
+C#: https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white
+Java: https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white
+Dart: https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white
+<br>
+SQL: https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white
+Git: https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
+TensorFlow: https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white
+PyTorch: https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
+Apache Spark: https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white
+
+<br>
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
