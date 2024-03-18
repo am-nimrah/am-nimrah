@@ -20,22 +20,6 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 </p>
 
 ### Skills and Tools
-<br>
-
-Python: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
-R: https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white
-C: https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white
-C#: https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white
-Java: https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white
-Dart: https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white
-<br>
-SQL: https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white
-Git: https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
-TensorFlow: https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white
-PyTorch: https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
-Apache Spark: https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white
-
-<br>
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
@@ -44,13 +28,13 @@ Apache Spark: https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-squ
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-generic.svg" alt="SQL" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git_scm/git_scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/> </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="URL_to_LaTeX_icon" alt="LaTeX" width="40" height="40"/> </a>
-  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="URL_to_Overleaf_icon" alt="Overleaf" width="40" height="40"/> </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.latex-project.org/ftp/logos/latex_logo_32x32.png" alt="LaTeX" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.mysql.com/common/img/logos/MySQL_logo.png" alt="MySQL" width="40" height="40"/> </a>
 </p>
 
 ### My Profile Stats 💻👀
