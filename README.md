@@ -23,11 +23,11 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="URL_to_R_icon" alt="R" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="URL_to_C_icon" alt="C" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"> <img src="URL_to_Csharp_icon" alt="C#" width="40" height="40"/> </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="URL_to_Dart_docs" target="_blank" rel="noreferrer"> <img src="URL_to_Dart_icon" alt="Dart" width="40" height="40"/> </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
