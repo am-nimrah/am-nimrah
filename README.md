@@ -21,6 +21,10 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 </p>
 
 ### Technolgies
+<div align="center">
+  <img hight="180em" src="https://github.com/Azalurg/Azalurg/blob/output/ocean.svg">
+  <img hight="180em" src="https://github-profile-trophy.vercel.app/?username=am-nimrah&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
+</div>
 
 <table align="center">
   <tr>
@@ -96,9 +100,3 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-nimrah&langs_count=8&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,am-nimrah.github.io&&hide=Cython,C,PowerShell,CMake,Shell" alt="Top languages used">
 <img alt="am-nimrah's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=am-nimrah&theme=tokyonight">
 </p>
-
-<div align="center">
-  <img hight="180em" src="https://github.com/Azalurg/Azalurg/blob/output/ocean.svg">
-  <img hight="180em" src="https://github-profile-trophy.vercel.app/?username=azalurg&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
-</div>
-
