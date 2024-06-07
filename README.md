@@ -21,10 +21,6 @@ A passionate Machine Learning Engineer with a thirst for knowledge and a drive t
 </p>
 
 ### Technolgies
-<div align="center">
-  <img hight="180em" src="https://github.com/Azalurg/Azalurg/blob/output/ocean.svg">
-  <img hight="180em" src="https://github-profile-trophy.vercel.app/?username=am-nimrah&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
-</div>
 
 <table align="center">
   <tr>
